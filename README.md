@@ -12,3 +12,5 @@ CATS V DOGS: https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image
 FRUITS : https://www.kaggle.com/datasets/debarghamitraroy/face-mask-detection
 # FACE MASK
 FACE MASK : https://www.kaggle.com/datasets/debarghamitraroy/face-mask-detection
+# XRAY
+XRAY :https://www.kaggle.com/datasets/khoongweihao/covid19-xray-dataset-train-test-sets
